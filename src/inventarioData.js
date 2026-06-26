@@ -5,16 +5,16 @@ export const inventario = [
     nombre: "CREA EL FUNKO POP DE TU MACOTA (SE REQUIERE FOTO DE LA MASCOTA)",
     precio: 85000, // Precio base sugerido
     categoria: "Personalizados",
-    imagenEstatica: "/images/mascota-estatica.webp",
-    imagenAnimada: "/images/mascota-animada.webp" // Un GIF mostrando el 360 del perro/gato
+    imagenEstatica: "/images/funkoper-gato.jpeg",
+    imagenAnimada: "/images/funkoper-perro.jpeg" // Un GIF mostrando el 360 del perro/gato
   },
   {
     id: "PERS-002",
     nombre: "CREA EL FUNKO POP DE TU PAREJA , AMIGOS O DE TI MISMO (SE REQUIERE FOTO DE LA PERSONA)",
     precio: 95000, 
     categoria: "Personalizados",
-    imagenEstatica: "/images/humano-estatica.webp",
-    imagenAnimada: "/images/humano-animada.webp" 
+    imagenEstatica: "/images/funko-persona.webp",
+    imagenAnimada: "/images/funko-persona.webp" 
   },
 
   // --- SUJETALIBROS Y ORGANIZADORES ---
