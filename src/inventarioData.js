@@ -103,8 +103,8 @@ export const inventario = [
     nombre: "BUMERANG retornable",
     precio: 6000,
     categoria: "Maceta",
-    imagenEstatica: "/images/maceta-autoriego.webp",
-    imagenAnimada: "/images/maceta-autoriego2.webp"
+    imagenEstatica: "/images/Bumerang.webp",
+    imagenAnimada: "/images/Bumerang.webp"
   },
   //-- Lampara
   {
@@ -112,8 +112,8 @@ export const inventario = [
     nombre: "LAMPARA ESTILO ASIATICA",
     precio: 55000,
     categoria: "Maceta",
-    imagenEstatica: "/images/maceta-autoriego.webp",
-    imagenAnimada: "/images/maceta-autoriego2.webp"
+    imagenEstatica: "/images/lampara-asiatica.webp",
+    imagenAnimada: "/images/lampara-asiatica2.webp"
   },
 
   // gadget celulares
@@ -122,8 +122,8 @@ export const inventario = [
     nombre: "SOPORTE CELULAR DE CARGA ",
     precio: 12000,
     categoria: "gadget",
-    imagenEstatica: "/images/maceta-autoriego.webp",
-    imagenAnimada: "/images/maceta-autoriego2.webp"
+    imagenEstatica: "/images/imagenSoporteCelularTomaCorreinte.webp",
+    imagenAnimada: "/images/imagenSoporteCelularTomaCorreinte2.webp"
   },
 
 ];
