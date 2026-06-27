@@ -29,17 +29,26 @@ export const inventario = [
   {
     id: "SUJE-002",
     nombre: "SUJETADOR DE GATO (gato negro o blanco)",
-    precio: 12000,
+    precio: 16000,
     categoria: "Sujetadores",
     imagenEstatica: "/images/sujeta-gato.webp",
     imagenAnimada: "/images/sujeta-gato2.webp"
   },
+  {
+    id: "SUJE-001",
+    nombre: "Soporte Libros HARRY",
+    precio: 35000,
+    categoria: "Sujetadores",
+    imagenEstatica: "/images/biblioteca-harry.webp",
+    imagenAnimada: "/images/biblioteca-harry2.webp" // Si no tienes gif, repite la imagen estática por ahora
+  },
+
 
   // --- LLAVEROS ---
   {
     id: "LLAV-001",
     nombre: "Llavero Nutria",
-    precio: 12000,
+    precio: 8000,
     categoria: "Llaveros",
     imagenEstatica: "/images/llavero-nutria.webp",
     imagenAnimada: "/images/llavero-nutria2.webp"
@@ -47,7 +56,7 @@ export const inventario = [
   {
     id: "LLAV-002",
     nombre: "Llavero T-Rex",
-    precio: 12000,
+    precio: 6000,
     categoria: "Llaveros",
     imagenEstatica: "/images/llavero-trex.webp",
     imagenAnimada: "/images/llavero-trex2.webp"
@@ -57,16 +66,24 @@ export const inventario = [
    {
     id: "FIGU-001",
     nombre: "ZORRO DE NIEVE",
-    precio: 12000,
+    precio: 20000,
     categoria: "Figuras",
     imagenEstatica: "/images/zorroBlanco.webp",
     imagenAnimada: "/images/zorroBlanco2.webp"
+  },
+  {
+    id: "FIGU-001",
+    nombre: "GATO CON GLOBO AMOR Y AMIASTAD",
+    precio: 15000,
+    categoria: "Figuras",
+    imagenEstatica: "/images/amor-gato.webp",
+    imagenAnimada: "/images/amor-gato.webp"
   },
   //-- porta llaves o sotenedor de llaves
   {
     id: "HANG-001",
     nombre: "SOSTENEDOR DE LLAVES DINAMICO",
-    precio: 12000,
+    precio: 22000,
     categoria: "Porta_llaves",
     imagenEstatica: "/images/keyhanger-hanger.webp",
     imagenAnimada: "/images/keyhanger-circulargif.webp"
@@ -75,11 +92,38 @@ export const inventario = [
   {
     id: "MACE-001",
     nombre: "Maceta de autoriego para plantas",
-    precio: 12000,
+    precio: 26000,
+    categoria: "Maceta",
+    imagenEstatica: "/images/maceta-autoriego.webp",
+    imagenAnimada: "/images/maceta-autoriego2.webp"
+  },
+  //-- juguetes
+  {
+    id: "JUGU-001",
+    nombre: "BUMERANG retornable",
+    precio: 6000,
+    categoria: "Maceta",
+    imagenEstatica: "/images/maceta-autoriego.webp",
+    imagenAnimada: "/images/maceta-autoriego2.webp"
+  },
+  //-- Lampara
+  {
+    id: "LAMP-001",
+    nombre: "LAMPARA ESTILO ASIATICA",
+    precio: 55000,
     categoria: "Maceta",
     imagenEstatica: "/images/maceta-autoriego.webp",
     imagenAnimada: "/images/maceta-autoriego2.webp"
   },
 
+  // gadget celulares
+  {
+    id: "CELU-001",
+    nombre: "SOPORTE CELULAR DE CARGA ",
+    precio: 12000,
+    categoria: "gadget",
+    imagenEstatica: "/images/maceta-autoriego.webp",
+    imagenAnimada: "/images/maceta-autoriego2.webp"
+  },
 
 ];
