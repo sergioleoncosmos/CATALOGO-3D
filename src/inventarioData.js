@@ -35,7 +35,7 @@ export const inventario = [
     imagenAnimada: "/images/sujeta-gato2.webp"
   },
   {
-    id: "SUJE-001",
+    id: "SUJE-003",
     nombre: "Soporte Libros HARRY",
     precio: 35000,
     categoria: "Sujetadores",
@@ -72,7 +72,7 @@ export const inventario = [
     imagenAnimada: "/images/zorroBlanco2.webp"
   },
   {
-    id: "FIGU-001",
+    id: "FIGU-002",
     nombre: "GATO CON GLOBO AMOR Y AMIASTAD",
     precio: 15000,
     categoria: "Figuras",
