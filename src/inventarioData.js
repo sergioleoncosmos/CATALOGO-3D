@@ -40,7 +40,7 @@ export const inventario = [
     precio: 35000,
     categoria: "Sujetadores",
     imagenEstatica: "/images/biblioteca-harry.webp",
-    imagenAnimada: "/images/biblioteca-harry2.webp" // Si no tienes gif, repite la imagen estática por ahora
+    imagenAnimada: "/images/bibliotecsa-harry2.webp" // Si no tienes gif, repite la imagen estática por ahora
   },
 
 
@@ -102,7 +102,7 @@ export const inventario = [
     id: "JUGU-001",
     nombre: "BUMERANG retornable",
     precio: 6000,
-    categoria: "Maceta",
+    categoria: "Juguetes",
     imagenEstatica: "/images/Bumerang.webp",
     imagenAnimada: "/images/Bumerang.webp"
   },
@@ -111,7 +111,7 @@ export const inventario = [
     id: "LAMP-001",
     nombre: "LAMPARA ESTILO ASIATICA",
     precio: 55000,
-    categoria: "Maceta",
+    categoria: "Lampara",
     imagenEstatica: "/images/lampara-asiatica.webp",
     imagenAnimada: "/images/lampara-asiatica2.webp"
   },
